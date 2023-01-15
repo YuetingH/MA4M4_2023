@@ -1,7 +1,7 @@
 # MA4M4 (22/23)
 > Support Class for MA4M4: Topics in Complexity Science at the University of Warwick
 
-We provide guidance on how to use [Python packages](https://www.python.org/) via [Jupyter Notebook](https://jupyter.org/) to analyze networks. Please feel free to choose other programming languages, but limited help can be provided in this case.
+We provide guidance on how to use [Python packages](https://www.python.org/) via [Jupyter Notebook](https://jupyter.org/) to analyze networks. Please feel free to choose other programming languages, but we will help where we can in this case.
 
 Instructions on how to install Python & Jupyter Notebook can be found online: [Windows](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/) | [MacOS](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/) | [Linux](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-linux/)
 
