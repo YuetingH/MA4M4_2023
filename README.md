@@ -10,5 +10,5 @@ Instructions on how to install Python & Jupyter Notebook can be found online: [W
 ## Support Class 1 (Week 3)
 [SupportClass1.ipynb](https://github.com/YuetingH/MA4M4_2023/blob/main/Support_Class1/SupportClass1.ipynb): This notebook is to give you simple examples of the types of packages you can use to represent networks and compute basic properties (e.g., [NetWorkX](https://networkx.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)). After this class, you should be able to:
 - import an empirical network from a website (e.g. [Konect](http://konect.cc/networks/)) into Python
-- compute some key network properites (e.g. degrees, centrality, average distance)
+- compute some key network properites (e.g. degree, centrality, average distance)
 - visualise the network and its corresponding adjacency matrix in a simple way
