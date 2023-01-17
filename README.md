@@ -1,5 +1,5 @@
 # MA4M4 (22/23)
-> Support Class for MA4M4: Topics in Complexity Science at the University of Warwick
+> Support Classes for MA4M4: Topics in Complexity Science at the University of Warwick
 
 We provide guidance on how to use [Python packages](https://www.python.org/) via [Jupyter Notebook](https://jupyter.org/) to analyse networks. Please feel free to choose other programming languages, but we will help where we can in this case.
 
