@@ -13,7 +13,7 @@ Instructions on how to install Python & Jupyter Notebook can be found online: [W
 - compute some key network properites (e.g. degree, centrality, average distance)
 - visualise a network and its corresponding adjacency matrix in a simple way
   
-## Lab Class (Week 5-6)
+## Lab Class (Week 5 - 6)
 [LabClass.ipynb](https://github.com/YuetingH/MA4M4_2023/blob/main/Lab_Class/LabClass.ipynb): This notebook provides a basic guidance to complete the tasks in [LabClass.pdf](https://github.com/YuetingH/MA4M4_2023/blob/main/Lab_Class/LabClass.pdf). Compared with the previous support class where we provide detailed programming code, our aim of this lab class is to give you an opportunity to practice coding. 
 
 In this lab class, you will
