@@ -8,7 +8,9 @@ Instructions on how to install Python & Jupyter Notebook can be found online: [W
 &nbsp;
 
 ## Support Class 1 (Week 3)
-[SupportClass1.ipynb](https://github.com/YuetingH/MA4M4_2023/blob/main/Support_Class1/SupportClass1.ipynb): This notebook is to give you simple examples of the types of packages you can use to represent networks and compute their basic properties (e.g., [NetWorkX](https://networkx.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)). After this class, you should be able to:
+[SupportClass1.ipynb](https://github.com/YuetingH/MA4M4_2023/blob/main/Support_Class1/SupportClass1.ipynb): This notebook is to give you simple examples of the types of packages you can use to represent networks and compute their basic properties (e.g., [NetWorkX](https://networkx.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)). 
+
+After this class, you should be able to:
 - import an empirical network from a website (e.g. [Konect](http://konect.cc/networks/)) into Jupyter Notebook
 - compute some key network properites (e.g. degree, centrality, average distance)
 - visualise a network and its corresponding adjacency matrix in a simple way
@@ -21,3 +23,11 @@ In this lab class, you will
 - further investigate structural properties of networks (e.g., Laplacian matrix)
 - generate random graphs using the Erdös-Rényi model and Barabási–Albert model
 - explore community structure using *modularity maximisation* [Optional]
+
+## Support Class 2 - Seminar Session (Week 8)
+[SupportClass2.ipynb](https://github.com/YuetingH/MA4M4_2023/blob/main/Support_Class2/SupportClass2.ipynb): This notebook provides coding examples of community detection on a specific dataset that consists of temporal undirected weighted networks. 
+
+After this class, you should be able to:
+- import an empirical network in a more general way, particularly for a temporal one
+- perform modularity maximisation for community detection
+- visualise relevant results and investigate robustness
