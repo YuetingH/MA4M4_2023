@@ -31,3 +31,16 @@ After this class, you should be able to:
 - import an empirical network in a more general way, particularly for a temporal one
 - perform modularity maximisation for community detection
 - visualise relevant results and investigate robustness
+
+## Support Class 3 - Seminar Session (Week 9)
+[Network_Visualisation.ipynb](https://github.com/YuetingH/MA4M4_2023/blob/main/Support_Class2/Network_Visualisation.ipynb): This notebook serves as a documentation of coding resources related to network visualization. Additionally, we will give a presentation to provide further explanation. Slides are available [here](https://gamma.app/public/kjm9a9mdhzlcj7a).
+
+After this class, you should be able to:
+- create nice visualizations for small networks using NetworkX
+- create nice visualizations for large networks using ForceAtlas2 (Node Layout) and Curved Edge (Edge Layout)
+- produce Sankey Diagram to visualize the flow of community assignment over time
+- have access to other network visualisation resources, such as software [Gephi](https://gephi.org/) & [Tulip](https://tulip.labri.fr/site/)
+
+Please note that in order to run this Jupyter notebook successfully, you may need to install additional packages. Detailed instructions on how to do this can be found within the notebook itself.
+
+
