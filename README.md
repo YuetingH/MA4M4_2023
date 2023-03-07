@@ -33,7 +33,7 @@ After this class, you should be able to:
 - visualise relevant results and investigate robustness
 
 ## Support Class 3 - Seminar Session (Week 9)
-[Network_Visualisation.ipynb](https://github.com/YuetingH/MA4M4_2023/blob/main/Support_Class2/Network_Visualisation.ipynb): This notebook serves as a documentation of coding resources related to network visualization. Additionally, we will give a presentation to provide further explanation. Slides are available [here](https://gamma.app/public/kjm9a9mdhzlcj7a).
+[Network_Visualisation.ipynb](https://github.com/YuetingH/MA4M4_2023/blob/main/Support_Class3/Network_Visualisation.ipynb): This notebook serves as a documentation of coding resources related to network visualization. Additionally, we will give a presentation to provide further explanation. Slides are available [here](https://gamma.app/public/kjm9a9mdhzlcj7a).
 
 After this class, you should be able to:
 - create nice visualizations for small networks using NetworkX
